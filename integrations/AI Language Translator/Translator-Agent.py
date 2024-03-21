@@ -17,7 +17,7 @@ SEED_PHRASE = "Open AI Language Translator"
 print(f"Your agent's address is: {Agent(seed=SEED_PHRASE).address}")
 
 # Define the unique mailbox key for the agent's communication
-AGENT_MAILBOX_KEY = "590fb602-b77f-4d1b-9e63-1ac2e98ee358"
+AGENT_MAILBOX_KEY = "YOUR_MAILBOX_KEY_HERE"
 
 # Initialize the agent with its unique identifiers
 translatorAgent = Agent(
